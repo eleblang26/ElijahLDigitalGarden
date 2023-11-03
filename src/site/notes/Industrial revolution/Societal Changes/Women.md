@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Industrial revolution/Societal Changes/Women/"}
 ---
 
-
+[[Citations/Women Article\|Women Article]]
 * [[Industrial revolution/Revolutions/First Industrial Revolution\|First Industrial Revolution]]:
 	* Widened pay gap
 		* 'Not supporting families'
