@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/Industrial revolution/Societal Changes/International Industrialism/"}
 ---
 
-
+* World-wide de-industrialism (Couldn't compete with industrialized goods)
+	* Many shifted towards raw material production
 *  IP and anti-espionage laws put into place by [[Industrial revolution/Countries/Britain\|Britain]]
 	* Didn't work well enough
 * First spread to Europe
