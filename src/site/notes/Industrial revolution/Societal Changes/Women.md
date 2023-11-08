@@ -15,6 +15,8 @@
 * Male craftsmen denied training
 * Protective Legislation
 	* Shortened hours for women
+	* But for domesticity ideology
+	* Based off of Middle-class expectations (unrealistic for working class women)
 * Service
 	* Men --> factories, women --> service
 	* Retail + communications + commerce = more clerk jobs
