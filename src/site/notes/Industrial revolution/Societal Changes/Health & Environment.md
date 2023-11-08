@@ -2,11 +2,15 @@
 {"dg-publish":true,"permalink":"/Industrial revolution/Societal Changes/Health & Environment/"}
 ---
 
-
-*  Mass pollution
+*   Mass pollution
 	* Acidic rain
 	* Smog
 	* Dirty, festering water
+* Resource scramble
+	* Hunting (Bison, Whales, etc.)
+	* Coal burning
+	* Forest clearing
+	* Mining
 * Health Ailments
 	* Lung Disease
 		* Especially common among [[Industrial revolution/Societal Changes/Classes/Working Class\|working class]]
