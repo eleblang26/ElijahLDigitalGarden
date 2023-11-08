@@ -4,6 +4,7 @@
 
 
 *   Started the Industrial Revolution
+	* Military Industry!!!!(Just like [[Industrial revolution/Countries/Japan\|Japan]], [[Industrial revolution/Countries/Germany\|Germany]], [[Industrial revolution/Countries/Russia\|Russia]], and the [[Industrial revolution/Countries/United States\|United States]])
 	* Expensive labor ([[Industrial revolution/Energy/Muscle\|muscle]])
 	* A lot of [[Industrial revolution/Energy/Coal\|coal]]
 	* Urbanization from the Agricultural Revolution
