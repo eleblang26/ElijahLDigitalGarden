@@ -36,4 +36,3 @@
 	* [[Industrial revolution/Countries/Britain\|Britain]] - pushed out
 	* [[Industrial revolution/Countries/France\|France]] - remained
 	* [[Industrial revolution/Countries/Germany\|Germany]] - mixed
-* 
