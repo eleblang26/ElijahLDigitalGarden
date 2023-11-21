@@ -4,7 +4,7 @@
 
 [[Citations/Sadler Comittee\|Sadler Comittee]], [[Citations/Child Labor Article\|Child Labor Article]]
 *  [[Industrial revolution/Societal Changes/Classes/Working Class\|Working Class]] children, specifically in [[Industrial revolution/Countries/Britain\|Britain]]
-* Working in [Steam Power] factories to fuel especially the [[Industrial revolution/Revolutions/First Industrial Revolution\|First Industrial Revolution]]
+* Working in [[Industrial revolution/Energy/Steam Power\|Steam Power]] factories to fuel especially the [[Industrial revolution/Revolutions/First Industrial Revolution\|First Industrial Revolution]]
 	* Worked oftentimes in textile/[[Industrial revolution/British Industries/Cotton\|Cotton]] mills because of their small hands
 * Up to 14 or 19 hours a day
 * 15% of workforce by early 1800s
