@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/Industrial revolution/Societal Changes/Health & Environment/"}
 ---
 
-*   Mass pollution
+[[Citations/Textbook\|Textbook]], (846,847)
+* Mass pollution
 	* Acidic rain
 	* Smog
 	* Dirty, festering water
