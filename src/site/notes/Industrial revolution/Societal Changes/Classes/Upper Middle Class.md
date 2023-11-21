@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Industrial revolution/Societal Changes/Classes/Upper Middle Class/"}
 ---
 
-
+[[Citations/Textbook\|Textbook]], (844,845)
 *  Lawyers, managers, accountants, etc.
 * Could spend time on civics
 * Also some lower [[Industrial revolution/Societal Changes/Classes/Industrialists\|industrialists]] who only own one factory
