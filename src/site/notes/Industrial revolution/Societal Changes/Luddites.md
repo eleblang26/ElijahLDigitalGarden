@@ -4,3 +4,5 @@
 
 [[Citations/Luddite Podcast\|Luddite Podcast]]
 * [[Industrial revolution/Societal Changes/Classes/Working Class\|Working Class]] workers who broke into factories
+* Industrialist-supporting government made it punishable by death to break a machine.
+* 
