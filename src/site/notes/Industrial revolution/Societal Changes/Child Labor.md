@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Industrial revolution/Societal Changes/Child Labor/"}
 ---
 
-
+[[Citations/Sadler Comittee\|Sadler Comittee]], [[Citations/Child Labor Article\|Child Labor Article]]
 *  [[Industrial revolution/Societal Changes/Classes/Working Class\|Working Class]] children, specifically in [[Industrial revolution/Countries/Britain\|Britain]]
 * Working in [Steam Power] factories to fuel especially the [[Industrial revolution/Revolutions/First Industrial Revolution\|First Industrial Revolution]]
 	* Worked oftentimes in textile/[[Industrial revolution/British Industries/Cotton\|Cotton]] mills because of their small hands
